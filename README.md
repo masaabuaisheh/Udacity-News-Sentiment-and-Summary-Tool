@@ -99,13 +99,3 @@ Add service worker configuration to your Webpack setup for offline support and c
 Deploy your finished project using one of the following free hosting services:
 - [Netlify](https://www.netlify.com/)
 - [Heroku](https://www.heroku.com/)
-
-Follow their respective documentation to deploy your application.
-
-## Contributing
-
-Feel free to submit issues, suggestions, or improvements. Make sure to create and merge branches as necessary and follow good commit practices.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
